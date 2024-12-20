@@ -1,0 +1,1 @@
+This repository demonstrates a common Python bug: forgetting to close a file opened using `open()`.  The `bug.py` file shows the erroneous code, while `bugSolution.py` provides the corrected version.  This simple example showcases the importance of proper resource management in Python to prevent resource leaks and ensure data integrity.
